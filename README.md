@@ -1,4 +1,15 @@
-# Customer Churn Analysis - END-to-End Data Analytics Project.
+# Telco Customer Churn Analysis - End-to-End Business Analysis
+
+## Power BI Dashboard
+
+### Executive Summary
+![Executive Summary](data/05_images/01_executive_summary.png)
+
+### Customer Segment Analysis
+![Customer Segment Analysis](data/05_images/02_customer_segment_analysis.png)
+
+### Revenue & Risk Insights
+![Revenue & Risk Insights](data/05_images/03_revenue_and_risk_insights.png)# Customer Churn Analysis - END-to-End Data Analytics Project.
 
 
 ## 📌 Project Overview
