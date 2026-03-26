@@ -12,7 +12,7 @@
 ![Revenue & Risk Insights](data/05_images/03_revenue_and_risk_insights.png)# Customer Churn Analysis - END-to-End Data Analytics Project.
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer churn behavior in a fictitious telecom company using a end-to-end analytics workflow. The goal is to identify key drivers of churn and financial risk patterns by combining SQL analysis, Excel validation, and interactive Power BI dashboards.
 The project demostrates a realistic data analyst workflow:
@@ -27,7 +27,7 @@ The project demostrates a realistic data analyst workflow:
 Dataset: Telco Customer Churn Dataset.
 
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - PostgreSQL (pgAdmin4) - database creation and schema management 
 - SQL - data cleaning transformation and analysis
@@ -36,7 +36,7 @@ Dataset: Telco Customer Churn Dataset.
 - Power BI - dashboard visualization
 
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains telecommunication customer suscription data including:
 
@@ -50,7 +50,7 @@ The dataset contains telecommunication customer suscription data including:
 - Customer churn indicator
 
 
-## 🧾 Database Setup (PostgreSQL)
+## Database Setup (PostgreSQL)
 
 The dataset was imported to PostgreSQL using pgAdmin4.
 
@@ -63,7 +63,7 @@ This structure separates:
 - Analytical outputs used for dashboards
 
 
-## 🧾 SQL Development
+## SQL Development
 
 SQL scripts were developed in Visual Studio Code using PostgreSQL connections.
 
@@ -110,7 +110,7 @@ Example:
 - analytics.churn_by_payment
 
 
-## 🧾 Excel Validation
+## Excel Validation
 
 SQL outputs were exported to CSV files and analyzed in Excel.
 
@@ -121,7 +121,7 @@ Purpose:
 - Prepare aggregated datasets for reporting
 
 
-## 🧾 Power BI Dashboard
+## Power BI Dashboard
 
 Power BI was used to build a 3-page interactive churn analysis dashboard.
 
@@ -130,7 +130,7 @@ Power BI was used to build a 3-page interactive churn analysis dashboard.
 3. Revenue and Risk Insights
 
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 telco-churn-cohort-analysis/
@@ -166,7 +166,7 @@ telco-churn-cohort-analysis/
 ```
 
 
-## 💡 Business Insights
+## Business Insights
 
 - Month-to-month contracts show the highest churn risk 
 - Customers with fiber optic internet churn more frequently
@@ -175,7 +175,7 @@ telco-churn-cohort-analysis/
 - Short-tenure customers are the most vulnerable segment
 
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. Encourage longer-term contracts through incentives
 2. Improve early lifecycle customer experience
